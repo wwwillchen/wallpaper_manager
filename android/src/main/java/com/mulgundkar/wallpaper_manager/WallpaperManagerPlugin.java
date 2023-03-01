@@ -19,6 +19,7 @@ import java.io.InputStream;
 import java.lang.reflect.Array;
 
 import androidx.annotation.NonNull;
+import io.flutter.FlutterInjector;
 import io.flutter.Log;
 import io.flutter.app.FlutterApplication;
 import io.flutter.embedding.engine.FlutterEngine;
